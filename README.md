@@ -1,10 +1,16 @@
 # <a name="title">Taichi Voxel Challenge</a>
 
 <p align="center">
-<img src="demo.jpg" width="75%"></img>
+<img src="heart.png" width="75%"></img>
 </p>
 
-> Figure: result of `python3 example6.py`. Please replace the image above (`demo.jpg`) with yours, so that other people can immediately see your results :-)
+<p align="center">
+<img src="heart2.png" width="75%"></img>
+</p>
+<p align="center">
+<img src="heart3.png" width="75%"></img>
+</p>
+> Figure: result of `main.py`. :-)
 
 We invite you to create your voxel artwork, by putting your [Taichi](https://github.com/taichi-dev/taichi) code in `main.py`!
 
